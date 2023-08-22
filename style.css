@@ -926,13 +926,14 @@ footer{
  }
 
  #name, #email{
-    width: 400px;
+    width: 314px;
     height: 30px;
     border-radius: 5px;
  }
  #message{
     height: 100px;
-    width: 400px;
+    /* width: 400px; */
+    width: 314px;
     border-radius: 5px;
  }
 
@@ -983,10 +984,7 @@ footer{
     padding-top: 5px;
 }
 
-.contact-banner-text{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 80px;
-}
+
 
 .fa-phone, .fa-envelope, .fa-briefcase{
     justify-content: center;
@@ -1279,6 +1277,24 @@ footer{
 
 .tags-recipe-type-img img {
    height: 133px;
+}
+
+.contact-form{
+    display: flex;
+    flex-direction: column;
+}
+
+#form-main{
+    margin-left: 0px;
+}
+
+.contact-img{
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-banner-text{
+    padding-bottom: 120px;
 }
 }
 
