@@ -1,5 +1,9 @@
 # Food-Recipe-Website
 A simple and elegant food recipe website showcasing various recipes, an about page, a menu section and a contact us page. Explore delicious dishes and learn how to make them!
+Hosted Link:
+
+## Home Page Screenshot
+![Website Screenshot](https://github.com/suryaspandey/Food-Recipe-Website/blob/main/images/home_page_sc.PNG)
 ## Features
 - **Home Page**: Welcome users to the website and provide an overview.
 - **About Page**: Share details about the website's mission, team, or history.
