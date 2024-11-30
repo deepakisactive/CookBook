@@ -1,10 +1,8 @@
 # Food-Recipe-Website
 A simple and elegant food recipe website showcasing various recipes, an about page, a menu section and a contact us page. Explore delicious dishes and learn how to make them!
 
-Hosted Link: https://papaya-figolla-1ed21f.netlify.app/
-
 ## Home Page Screenshot
-![Website Screenshot](https://github.com/suryaspandey/Food-Recipe-Website/blob/main/images/home_page_sc.PNG)
+![Website Screenshot](https://github.com/deepakisactive/CookBook/blob/main/images/home_page_sc.PNG)
 ## Features
 - **Home Page**: Welcome users to the website and provide an overview.
 - **About Page**: Share details about the website's mission, team, or history.
@@ -18,7 +16,7 @@ To explore the website locally on your machine, follow these steps:
 
 1. Clone this repository to your local machine using:
  
-   git clone https://github.com/suryaspandey/Food-Recipe-Website.git 
+   git clone https://github.com/deepakisactive/CookBook.git 
 
 2. Open any HTML file in your preferred web browser to navigate the website.
 
