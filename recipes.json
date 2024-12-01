@@ -1,0 +1,69 @@
+{
+  "featured": [
+    {
+      "id": "veg-hakka-noodles",
+      "title": "Veg Hakka Noodles",
+      "image": "images/veg_hakka_noodles.webp",
+      "description": "Delicious vegetarian noodles with a mix of colorful vegetables.",
+      "rating": 4
+    },
+    {
+      "id": "schezwan-noodles",
+      "title": "Schezwan Noodles",
+      "image": "images/schezwan_noodles.webp",
+      "description": "Spicy and flavorful noodles with a perfect blend of Schezwan sauce.",
+      "rating": 5
+    },
+    {
+      "id": "cheese-pizza",
+      "title": "Cheese Pizza",
+      "image": "images/pizza1.jpg",
+      "description": "Classic cheese pizza with a crispy crust and gooey mozzarella.",
+      "rating": 4
+    },
+    {
+      "id": "vegetable-stir-fry",
+      "title": "Vegetable Stir Fry",
+      "image": "images/vegetable_stir_fry.jpg",
+      "description": "A quick and healthy mix of fresh vegetables in a savory sauce.",
+      "rating": 4
+    },
+    {
+      "id": "chocolate-cake",
+      "title": "Chocolate Cake",
+      "image": "images/chocolate_cake.jpg",
+      "description": "Rich and moist chocolate cake perfect for any occasion.",
+      "rating": 5
+    }
+  ],
+  "premium": [
+    {
+      "id": "truffle-pasta",
+      "title": "Gourmet Truffle Pasta",
+      "image": "images/truffle_pasta.jpg",
+      "description": "Luxurious pasta dish infused with black truffle and parmesan.",
+      "rating": 5
+    },
+    {
+      "id": "wagyu-burger",
+      "title": "Wagyu Beef Burger",
+      "image": "images/wagyu_burger.jpg",
+      "description": "Premium burger made with high-grade Wagyu beef and special sauce.",
+      "rating": 5
+    },
+    {
+      "id": "lobster-thermidor",
+      "title": "Lobster Thermidor",
+      "image": "images/lobster_thermidor.jpg",
+      "description": "Classic French dish with lobster meat in a rich, creamy sauce.",
+      "rating": 5
+    },
+    {
+      "id": "saffron-risotto",
+      "title": "Saffron Risotto",
+      "image": "images/saffron_risotto.jpg",
+      "description": "Creamy Italian rice dish flavored with exotic saffron.",
+      "rating": 4
+    }
+  ]
+}
